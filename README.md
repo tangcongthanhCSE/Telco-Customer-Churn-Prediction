@@ -98,12 +98,14 @@ Insight: Even long-term customers are at risk if they are on unstable contract t
 ## 💻 How to Run
 Clone the repository:
 
-Bash
+```Bash
 
 git clone https://github.com/yourusername/customer-churn-prediction.git
+```
 Install dependencies:
 
-Bash
+```Bash
 
 pip install -r requirements.txt
+```
 Run the analysis notebook or use the prediction script.
