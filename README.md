@@ -85,7 +85,7 @@ Insight: Even long-term customers are at risk if they are on unstable contract t
 
 ## 📂 Project Structure
 ```bash
-data/
+dataset/
 │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
 │
 notebooks/
