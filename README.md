@@ -84,23 +84,29 @@ Conflicted Case: High tenure (Loyal) but Month-to-month contract (Risky) → ~61
 Insight: Even long-term customers are at risk if they are on unstable contract terms.
 
 ## 📂 Project Structure
-├── data/
+```bash
+data/
 │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
-├── notebooks/
+│
+notebooks/
 │   ├── Churn_Analysis_Modeling.ipynb   # Training & Evaluation
 │   └── Prediction_Demo.ipynb           # Testing with new data
-├── models/
+│
+models/
 │   ├── churn_prediction_model.pkl      # Saved Model
 │   ├── scaler.pkl                      # Saved Scaler
 │   └── model_columns.pkl               # Feature columns mapping
-├── README.md
-└── requirements.txt
+│
+README.md
+requirements.txt
+```
+
 ## 💻 How to Run
 Clone the repository:
 
 ```Bash
 
-git clone https://github.com/yourusername/customer-churn-prediction.git
+git clone git@github.com:tangcongthanhCSE/Telco-Customer-Churn-Prediction.git
 ```
 Install dependencies:
 
