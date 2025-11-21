@@ -1,4 +1,4 @@
-##📡 Telco Customer Churn Prediction
+## 📡 Telco Customer Churn Prediction
 📖 Project Overview
 Customer churn (attrition) is a critical metric in the telecommunications industry. Acquiring a new customer is significantly more expensive than retaining an existing one.
 
